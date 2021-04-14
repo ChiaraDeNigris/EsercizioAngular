@@ -1,3 +1,5 @@
+//file per definire i test esegibili sul file (lo vedremo alla fine)
+
 import { TestBed, async } from '@angular/core/testing';
 import { HttpClientModule } from "@angular/common/http";
 import { AppComponent } from './app.component';
